@@ -12,12 +12,16 @@ body {
   line-height: 1.6;
   letter-spacing: 0.1em; }
 
-.cherryblossom {
+.top-wrapper {
+  background-image: url("../images/awaisakuratoaozora.jpg");
   background-size: cover;
-  display: block; }
+  width: 100%;
+  height: 500px; }
 
 @media screen and (max-width: 768px) {
-  .cherryblossom {
+  .top-wrapper {
+    background-image: url("../images/awaisakuratoaozora.jpg");
+    background-size: cover;
     width: 100%;
     height: 250px; } }
 #spot {
